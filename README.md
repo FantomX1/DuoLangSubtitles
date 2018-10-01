@@ -1,5 +1,7 @@
 # DuoLangSubtitles  
 
+automatically google translated duo language subtitles for learning of foreign languages
+
 Example:
  
 use FantomX1\DuoLangSubtitles;  
