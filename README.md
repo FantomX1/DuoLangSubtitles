@@ -23,7 +23,7 @@ var_dump(
 1
 00:00:14,348 --> 00:00:17,725
 ♪♪[The|Entertainer|playing]
- ♪♪ [znaku | Entertainer | playing]
+ ♪♪ [znaku | zabavac | hranie]
 
 2
 00:02:07,377 --> 00:02:09,295
