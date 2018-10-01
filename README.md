@@ -1,4 +1,4 @@
-# DuoLangSubtitles2  
+# DuoLangSubtitles  
 
 Example:
  
